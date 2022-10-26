@@ -74,7 +74,7 @@
   <details>
     <summary style="font-size: 16px"><b>⚡ Recent GitHub Activity</b></summary>
     <br/>
-    <a href="https://github.com/ismael148"><img alt="Ismael148's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ismael148&custom_title=Mario's%20Contribution%20Graph&theme=react-dark" /></a>
+    <a href="https://github.com/ismael148"><img alt="Ismael148's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ismael148&custom_title=Ismael's%20Contribution%20Graph&theme=react-dark" /></a>
     <br/>
 
   </details>
